@@ -7,8 +7,8 @@ export default () => {
 
   return (
     <Layout>
-      <h1>{router.query.id}</h1>
-      <h2>{router.query.title}</h2>
+      <h1>{router.query.title}</h1>
+      <h2>{router.query.id}</h2>
       <div className="markdown">
         <Markdown
           source={`
