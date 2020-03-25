@@ -5,3 +5,5 @@ yarn.lock
 !/yarn.lock
 test/node_modules
 .next/
+
+.now
