@@ -8,8 +8,6 @@ https://hello-next-phi-liard.now.sh/Index
 
 # Set up
 
-## local
-
 ```
 $ npm init -y
 $ npm install --save react react-dom next
